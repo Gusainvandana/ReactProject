@@ -1,0 +1,35 @@
+
+
+.landing{
+    height: 50vh;
+    width: 50%;  
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;   
+}
+
+  
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: gray;
+    
+}
+.welcome{
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 200px;  
+}
+
+.but{
+   
+    display: flex;
+    justify-content: center;
+    width: 190px;
+}
+
+button{
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-left: 500px;
+}

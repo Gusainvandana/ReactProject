@@ -1,0 +1,50 @@
+.updateCard{
+    padding: 20px;
+    margin: 20px;
+    background-color:bisque;
+    border-radius: 9px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.updateCard h1{
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.form-content{
+    margin-bottom: 15px;
+}
+
+.form label{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.form input{
+    width: 100%;
+    padding: 8px;
+    /* border: 1px solid black; */
+    border-radius: 4px;
+    width: 100%;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form button{
+    padding: 12px;
+    font-size: 16px;
+    background-color: cadetblue;
+    color: whitesmoke;
+    cursor: pointer;
+    width: 100px;
+}
